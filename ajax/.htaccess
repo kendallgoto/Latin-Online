@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^r$ r.php
+RewriteRule ^login$ login.php
+RewriteRule ^fetch$ fetchWord.php

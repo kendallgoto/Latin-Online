@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule ^logout$ logout.php
+RewriteRule ^logout/$ logout.php
+
+RewriteRule ^privacy$ privacy.php
+RewriteRule ^privacy/$ privacy.php
+
+RewriteRule ^log$ log.php
+RewriteRule ^log/$ log.php
